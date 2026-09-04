@@ -1,0 +1,14 @@
+{
+  "subject": "data_structures",
+  "note": "Gold pairs: same underlying topic/technique, hand-labeled per rubric. Year A = 2025 (16 q), Year B = 2026 (12 q).",
+  "pairs": [
+    ["3", "4"],
+    ["4", "3"],
+    ["9", "9"],
+    ["10", "9"],
+    ["12", "10"],
+    ["12", "11"],
+    ["14", "10"],
+    ["14", "11"]
+  ]
+}

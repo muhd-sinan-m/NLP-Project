@@ -1,0 +1,14 @@
+{
+  "subject": "cpp",
+  "note": "Gold pairs: same underlying topic/technique, hand-labeled per rubric. Year A = 2024 (10 q), Year B = 2025 (10 q).",
+  "pairs": [
+    ["1", "1"],
+    ["1", "2"],
+    ["1", "6"],
+    ["2", "1"],
+    ["2", "5"],
+    ["7", "7"],
+    ["9", "9"],
+    ["9", "10"]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "subjects": [
+    {
+      "id": "data_structures",
+      "display_name": "Data Structures",
+      "papers": [
+        {"file": "Data_Structures_2025.pdf", "year": 2025, "exam": ""},
+        {"file": "Data_Structures_2026.pdf", "year": 2026, "exam": ""}
+      ]
+    },
+    {
+      "id": "digital_fundamentals",
+      "display_name": "Digital Fundamentals",
+      "papers": [
+        {"file": "Digital_Fundamentals_SEA_II_2024.pdf", "year": 2024, "exam": "SEA II"},
+        {"file": "Digital_Fundamentals_SEA_II_2025.pdf", "year": 2025, "exam": "SEA II"}
+      ]
+    },
+    {
+      "id": "discrete_mathematics",
+      "display_name": "Discrete Mathematics",
+      "papers": [
+        {"file": "Discrete_mathematics_ISA_2024.pdf", "year": 2024, "exam": "ISA"},
+        {"file": "Discrete_mathematics_SEA_II_2025.pdf", "year": 2025, "exam": "SEA II"}
+      ]
+    },
+    {
+      "id": "cpp",
+      "display_name": "Fundamentals of Programming Using C++",
+      "papers": [
+        {"file": "Fundamentals_of_Programming_Using_C++_SEA_II_2024.pdf", "year": 2024, "exam": "SEA II"},
+        {"file": "Fundamentals_of_Programming_Using_C++_SEA_II_2025.pdf", "year": 2025, "exam": "SEA II"}
+      ]
+    },
+    {
+      "id": "operating_systems",
+      "display_name": "Operating Systems",
+      "papers": [
+        {"file": "Operating_Systems_2024.pdf", "year": 2024, "exam": ""},
+        {"file": "Operating_Systems_2026.pdf", "year": 2026, "exam": ""}
+      ]
+    }
+  ]
+}

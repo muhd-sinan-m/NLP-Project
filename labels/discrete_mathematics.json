@@ -1,0 +1,10 @@
+{
+  "subject": "discrete_mathematics",
+  "note": "Gold pairs: same underlying topic/technique, hand-labeled per rubric. Year A = 2024 ISA (2 q), Year B = 2025 (11 q).",
+  "pairs": [
+    ["1", "2"],
+    ["2", "9"],
+    ["2", "10"],
+    ["2", "11"]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "subject": "digital_fundamentals",
+  "note": "Gold pairs: same underlying topic/technique, hand-labeled per rubric. Year A = 2024 (12 q), Year B = 2025 (11 q).",
+  "pairs": [
+    ["1", "1"],
+    ["1", "2"],
+    ["5", "3"],
+    ["6", "6"],
+    ["8", "8"],
+    ["10", "11"],
+    ["12", "11"]
+  ]
+}

@@ -1,0 +1,4 @@
+[
+  {"action": "merge", "q": [4]},
+  {"action": "drop", "q": [13]}
+]

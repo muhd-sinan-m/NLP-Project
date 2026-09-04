@@ -1,0 +1,123 @@
+# ==============================================================================
+# Byte-compiled / Optimized / DLL files
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+.Python
+
+# ==============================================================================
+# Virtual Environments
+# ==============================================================================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+bin/
+include/
+lib/
+Lib/
+Scripts/
+
+# ==============================================================================
+# NLTK Data & Model Downloads
+# ==============================================================================
+nltk_data/
+*/nltk_data/
+
+# ==============================================================================
+# Pipeline Caches & Intermediate Generated Artifacts
+# ==============================================================================
+# All intermediate extraction & cached files are regenerable via src/*.py
+processed/*
+# Retain manual human corrections (not regenerable by code)
+!processed/segment_overrides/
+!processed/segment_overrides/**
+
+# ==============================================================================
+# Streamlit & Web App Local State
+# ==============================================================================
+.streamlit/secrets.toml
+
+# ==============================================================================
+# Testing, Coverage & Linters
+# ==============================================================================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ==============================================================================
+# Distribution / Packaging
+# ==============================================================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==============================================================================
+# Jupyter Notebooks & Data Science Checkpoints
+# ==============================================================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ==============================================================================
+# Logs & Agent / IDE Temp State
+# ==============================================================================
+*.log
+.freebuff/
+.freebuf/
+.frebuf/
+.gemini/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# ==============================================================================
+# Operating System & Editor Files
+# ==============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.sublime-workspace
+*.sublime-project
